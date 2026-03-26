@@ -1,3 +1,3 @@
 # test_jl
 
-to jest wpis testowy, i dodano poprawke
+Projekt poświęcony testowaniu technologii gitworkflow w budowie kodu.
